@@ -21,7 +21,7 @@
 
 ## Projects
 - [Flask DevOps App](https://github.com/mdaashir10/Python_flaskapp) — Dockerized Flask app with CI/CD pipeline, live on Render
-- [System Health Monitor](https://github.com/mdaashir10/system-health-monitor) — Python+Bash monitor with Telegram alerts and cron automation
+- [System Health Monitor](https://github.com/mdaashir10/System_Health_Monitor) — Python + Bash monitor with Telegram alerts and cron automation
 
 ## Currently Learning
 - Cloud deployment
