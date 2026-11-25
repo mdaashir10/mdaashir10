@@ -23,7 +23,7 @@
 ## Projects
 - [Flask DevOps App](https://github.com/mdaashir10/Python_flaskapp) - Dockerized Flask app with CI/CD pipeline, live on Render
 - [System Health Monitor](https://github.com/mdaashir10/System_Health_Monitor) - Python + Bash monitor with Telegram alerts and cron automation
-- [Auto Healing LLMops](https://github.com/mdaashir10/Auto-healing_LLMops.) - Kubernetes native, Self healing deployment pipeline for an LLM interface service 
+- [Auto Healing LLMops](https://github.com/mdaashir10/Auto-healing_LLMops) - Kubernetes native, Self healing deployment pipeline for an LLM interface service 
 
 ## Currently Learning
 - Cloud deployment
